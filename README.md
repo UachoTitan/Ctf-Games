@@ -1,5 +1,4 @@
-1)https://www.hackthebox.eu /n
-2)www.hackthissite.org/ /n
-3)https://xss-game.appspot.com /n
-4)https://overthewire.org/wargames/ /n
-5)
+1)https://www.hackthebox.eu  
+2)www.hackthissite.org/  
+3)https://xss-game.appspot.com  
+4)https://overthewire.org/wargames/  
